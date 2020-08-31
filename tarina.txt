@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Hei maailma! It's a me
 Moi moi
+=======
+Hei maailma
+Moi moi vain
+>>>>>>> Stashed changes
